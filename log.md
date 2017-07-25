@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Monday, July 24, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through about 50% of Codecademy "Learn HTML and CSS" course. Good review of basics.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Going to give 100-Days-of-Code another shot. Failed miserably last time, but I have some website ideas that I want to pursue. I previously worked a bit in HTML/CSS, but this was a good review to get back into things.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Codecademy Profile](https://www.codecademy.com/scriptSurfer07922)
