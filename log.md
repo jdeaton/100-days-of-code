@@ -16,3 +16,12 @@
 **Thoughts:** Made it to Day 1. Enjoyed getting a bit of accomplishment by finishing a Codecademy course. Very much looking forward to getting to the point where I can remember how to update my personal website. Goal is to have some updates on there within 1 week.
 
 **Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton)
+
+### Day 2: Tuesday, July 26, 2017
+
+**Today's Progress**: Completed Codecademy "Build a Website" course. Enjoyed learning about the Bootstrap framework. Began the "Full Stack" path with Codecademy/Pro. First course in it is again some more HTML/CSS (I can use the review).
+
+
+**Thoughts:** I really enjoyed learning about the Bootstrap framework. It is obvious how it provides excellent capabilities for quickly building basic websites. I decided to go ahead and pay for the Pro features at Codecademy to be able to get access to additional projects that I can use to practice on.
+
+**Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton)
