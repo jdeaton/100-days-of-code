@@ -17,11 +17,19 @@
 
 **Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton)
 
-### Day 2: Tuesday, July 26, 2017
+### Day 2: Wednesday, July 26, 2017
 
 **Today's Progress**: Completed Codecademy "Build a Website" course. Enjoyed learning about the Bootstrap framework. Began the "Full Stack" path with Codecademy/Pro. First course in it is again some more HTML/CSS (I can use the review).
 
 
 **Thoughts:** I really enjoyed learning about the Bootstrap framework. It is obvious how it provides excellent capabilities for quickly building basic websites. I decided to go ahead and pay for the Pro features at Codecademy to be able to get access to additional projects that I can use to practice on.
+
+**Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton)
+
+### Day 3: Thursday, July 27, 2017
+
+**Today's Progress**: Coded for about 2 hours tonight. Approximately 1/3 of the way through "HTML/CSS" course in the Codecademy/Pro "Full Stack" path. Lots of review.
+
+**Thoughts:** I'm really anxious to move on to more advanced topics like Javascript and JQuery. I know all of this HTML/CSS review/practice is good though as it is committing it to memory. I plan to trudge through the rest of this course in the next couple of days and then get on to more exciting topics!
 
 **Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton)
