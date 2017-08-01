@@ -33,3 +33,11 @@
 **Thoughts:** I'm really anxious to move on to more advanced topics like Javascript and JQuery. I know all of this HTML/CSS review/practice is good though as it is committing it to memory. I plan to trudge through the rest of this course in the next couple of days and then get on to more exciting topics!
 
 **Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton)
+
+### Day 4: Monday, July 31, 2017
+
+**Today's Progress** Finished up coursework portion of "HTML/CSS" course in Codecademy/Pro "Full Stack" path. Began working on some of the interactive projects and planning my final project. Also explored WebStorm IDE to see how it worked with HTML. I'm going to use it for my HTML/CSS project.
+
+**Thoughts:** Unfortunately missed 3 days in a row! I feel like I made up for that with almost 3 hours of programming tonight. I'm glad that I was able to get back going again. I'm looking forward to working on my final project for the HTML/CSS course.
+
+**Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton)
