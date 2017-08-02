@@ -48,4 +48,4 @@
 
 **Thoughts:** The Bootstrap framework is extremely useful. I'm nearly ready to put together my personal website. Feeling more comfortable with using HTML/CSS correctly (I have used it before, but not did not understand nearly this well).
 
-**Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton), [jdeaton@github.io](jdeaton@github.io]
+**Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton), [jdeaton.github.io](jdeaton.github.io)
