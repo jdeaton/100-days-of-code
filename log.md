@@ -41,3 +41,11 @@
 **Thoughts:** Unfortunately missed 3 days in a row! I feel like I made up for that with almost 3 hours of programming tonight. I'm glad that I was able to get back going again. I'm looking forward to working on my final project for the HTML/CSS course.
 
 **Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton)
+
+### Day 5: Tuesday, August 01, 2017
+
+**Today's Progress** Worked on some more HTML/CSS/Bootstrap projects in Codecademy. Also setup my first GitHub Page to host my personal website.
+
+**Thoughts:** The Bootstrap framework is extremely useful. I'm nearly ready to put together my personal website. Feeling more comfortable with using HTML/CSS correctly (I have used it before, but not did not understand nearly this well).
+
+**Link to work:** [Codecademy Profile](https://www.codecademy.com/jddeaton), [jdeaton@github.io](jdeaton@github.io]
